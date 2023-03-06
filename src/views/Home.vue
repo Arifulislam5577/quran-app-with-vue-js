@@ -38,11 +38,16 @@
       </div>
     </div>
   </section>
+  <Feature />
 </template>
 
 <script>
+import Feature from "../components/Feature.vue";
 export default {
   name: "Home",
+  components: {
+    Feature,
+  },
 };
 </script>
 
