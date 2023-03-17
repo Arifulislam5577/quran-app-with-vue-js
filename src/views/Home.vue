@@ -39,14 +39,17 @@
     </div>
   </section>
   <Feature />
+  <Gallery />
 </template>
 
 <script>
 import Feature from "../components/Feature.vue";
+import Gallery from "../components/Gallery.vue";
 export default {
   name: "Home",
   components: {
     Feature,
+    Gallery,
   },
 };
 </script>
