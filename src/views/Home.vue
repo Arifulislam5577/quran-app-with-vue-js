@@ -40,16 +40,19 @@
   </section>
   <Feature />
   <Gallery />
+  <Contact />
 </template>
 
 <script>
 import Feature from "../components/Feature.vue";
 import Gallery from "../components/Gallery.vue";
+import Contact from "../components/Contact.vue";
 export default {
   name: "Home",
   components: {
     Feature,
     Gallery,
+    Contact,
   },
 };
 </script>
