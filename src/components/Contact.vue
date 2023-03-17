@@ -52,9 +52,9 @@
               ></textarea>
             </div>
           </div>
-          <div class="p-2 w-full">
+          <div class="p-2 w-full flex items-center justify-end">
             <button
-              class="flex justify-center mx-auto items-center text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+              class="items-center text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg"
             >
               Button
             </button>
