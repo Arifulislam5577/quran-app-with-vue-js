@@ -1,7 +1,7 @@
 <template>
   <section class="py-5">
     <div class="container flex flex-col justify-center">
-      <div class="my-3">
+      <div class="my-3 space-y-4">
         <h1 class="text-2xl font-bold text-black">Our Gallery</h1>
         <p class="text-base text-gray-600 max-w-2xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum
